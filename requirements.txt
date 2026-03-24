@@ -1,0 +1,23 @@
+streamlit
+openai
+anthropic
+google-generativeai
+pyyaml
+pandas
+numpy
+pypdf
+PyYAML
+altair
+httpx
+python-docx
+reportlab
+pydantic>=2.7,<3.0
+# Fuzzy search
+#rapidfuzz>=3.9,<4.0
+# PDF handling
+PyPDF2
+# Local OCR path (Python Pack)
+pdf2image
+pytesseract
+Pillow
+plotly
